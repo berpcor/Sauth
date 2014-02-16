@@ -1,6 +1,6 @@
 {
     "name": "berpcor/sauth",
-    "description": "",
+    "description": "Laravel's social auth package. Vk, odnoklassniki, mailru, google, yandex, facebook",
     "authors": [
         {
             "name": "Berpcor",
