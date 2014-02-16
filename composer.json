@@ -1,0 +1,23 @@
+{
+    "name": "berpcor/sauth",
+    "description": "",
+    "authors": [
+        {
+            "name": "Berpcor",
+            "email": "berpcor@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Berpcor\\Sauth\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
